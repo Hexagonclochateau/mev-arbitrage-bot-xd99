@@ -1,4 +1,4 @@
-# 
+# automatic MEV arbitrage bot | arbitrage-opportunities + degen-coin-scanning is the best MEV arbitrage bot, featuring arbitrage-opportunities and degen-coin-scanning. Fast, smart,
 
 
 
